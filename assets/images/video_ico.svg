@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="15px" viewBox="0 0 22 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>video_ico</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Desktop-HD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-32.000000, -578.000000)">
+        <g id="menu" transform="translate(32.000000, 267.000000)" fill="#A6A6A6" fill-rule="nonzero">
+            <g id="video_menu" transform="translate(0.000000, 309.000000)">
+                <path d="M12.8409722,2 L1.82569444,2 C0.817361111,2 0,2.81736111 0,3.82569444 L0,14.8409722 C0,15.8493056 0.817361111,16.6666667 1.82569444,16.6666667 L12.8409722,16.6666667 C13.8493056,16.6666667 14.6666667,15.8493056 14.6666667,14.8409722 L14.6666667,3.82569444 C14.6666667,2.81736111 13.8493056,2 12.8409722,2 Z M20.075,3.43993056 L15.8888889,6.32743056 L15.8888889,12.3392361 L20.075,15.2229167 C20.8847222,15.7805556 22,15.2114583 22,14.2375 L22,4.42534722 C22,3.45520833 20.8885417,2.88229167 20.075,3.43993056 Z" id="video_ico"></path>
+            </g>
+        </g>
+    </g>
+</svg>
